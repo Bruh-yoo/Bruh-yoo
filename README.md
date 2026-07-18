@@ -15,6 +15,22 @@
 
 ---
 
+## 📂 Repositories
+
+### 🌐 Public Projects
+
+- [**Intrusion Detection System**](https://github.com/Bruh-yoo/Intrusion-Detection-System-IDS-using-AI-Snort) - Advanced IDS leveraging AI and Snort to detect network anomalies. `Python` `Shell`
+- [**TUNDA**](https://github.com/Bruh-yoo/TUNDA) - Empathetic Voice Companion CARE_SOL_AI. `Python` `TypeScript`
+- [**readme-typing-svg**](https://github.com/Bruh-yoo/readme-typing-svg) - Dynamically generated typing animation for profile pages. `PHP`
+- [**Bruh-yoo**](https://github.com/Bruh-yoo/Bruh-yoo) - This profile repository. `Markdown`
+
+### 🔒 Private & Enterprise Projects
+
+- **AccuKE** - Full-stack Kenyan ERP platform with eTIMS compliance, multi-branch inventory, and payroll. `TypeScript` `Python` `PostgreSQL` `Terraform`
+- **UniHealth** - National Electronic Health Record (EHR) system with FHIR gateway, event pipelines, and AI clinical assistance. `Python` `TypeScript` `React Native` `Kafka` `Redis`
+
+---
+
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Bruh-yoo&show_icons=true&theme=tokyonight)
