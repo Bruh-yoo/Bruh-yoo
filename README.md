@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bayoo
+# 👋 Hi, I'm Bruh.yo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00C4FF&center=true&vCenter=true&width=1000&lines=Software+Developer;AI+Engineer;Cybersecurity+Researcher;Building+BizTrack+Enterprise;Machine+Learning+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
