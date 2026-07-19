@@ -1,33 +1,59 @@
-# 👋 Hi, I'm Bruh.yo
+# 👽👋 Hi, I'm Bruh.yo| Alien Engineer from Planet BugFix 🛸
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=00C4FF&center=true&vCenter=true&width=1000&lines=Software+Developer;AI+Engineer;Cybersecurity+Researcher;Building+BizTrack+Enterprise;Machine+Learning+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Current Missions
 
-- 🏢 BizTrack Enterprise ERP
-- 🤖 AI Business Automation
-- 🔐 AI Intrusion Detection System
-- 🚛 Route Optimization Platform
-- ☁️ Cloud Native Microservices
-- 💳 QuickBooks Integration
+- 👽 **BizTrack Enterprise ERP**
+  - AI-powered accounting, inventory, procurement, CRM, HR, payroll & analytics
+
+- 🤖 **AI Sales Force Automation Platform**
+  - Route optimization, field operations, customer intelligence & forecasting
+
+- 🔐 **AI Intrusion Detection System**
+  - Machine Learning + Snort + Network Threat Analytics
+
+- ☁️ **Cloud Native Microservices Platform**
+  - Docker, Kubernetes, API Gateway, Event-Driven Architecture
+
+- 🚛 **Distribution & Logistics Intelligence**
+  - Fleet tracking, route optimization, delivery monitoring & warehouse automation
+
+- 🧠 **Autonomous AI Agents**
+  - Self-improving business and operations assistants
 
 ---
 
-## 📂 Repositories
+## 📂 
+BizTrack-Enterprise	🚀 AI-powered ERP platform for accounting, CRM, inventory, procurement, distribution, fleet management, HR, payroll, and business intelligence.
 
-### 🌐 Public Projects
+Intrusion-Detection-System-IDS-using-AI-Snort	🛡️ AI-powered intrusion detection system combining Snort with machine learning for intelligent network traffic analysis and real-time threat detection.
 
-- [**Intrusion Detection System**](https://github.com/Bruh-yoo/Intrusion-Detection-System-IDS-using-AI-Snort) - Advanced IDS leveraging AI and Snort to detect network anomalies. `Python` `Shell`
-- [**TUNDA**](https://github.com/Bruh-yoo/TUNDA) - Empathetic Voice Companion CARE_SOL_AI. `Python` `TypeScript`
-- [**readme-typing-svg**](https://github.com/Bruh-yoo/readme-typing-svg) - Dynamically generated typing animation for profile pages. `PHP`
-- [**Bruh-yoo**](https://github.com/Bruh-yoo/Bruh-yoo) - This profile repository. `Markdown`
+Route-Optimizer-Service	🗺️ Intelligent route optimization microservice for fleet management, delivery scheduling, traffic-aware routing, and logistics automation.
 
-### 🔒 Private & Enterprise Projects
+Procurement-Service	📦 Enterprise procurement microservice for supplier management, purchase workflows, approvals, inventory replenishment, and analytics.
 
-- **AccuKE** - Full-stack Kenyan ERP platform with eTIMS compliance, multi-branch inventory, and payroll. `TypeScript` `Python` `PostgreSQL` `Terraform`
-- **UniHealth** - National Electronic Health Record (EHR) system with FHIR gateway, event pipelines, and AI clinical assistance. `Python` `TypeScript` `React Native` `Kafka` `Redis`
+Accounting-Service	💰 Accounting engine supporting invoicing, payments, tax management, QuickBooks integration, financial reporting, and multi-currency transactions.
+
+CRM-Service	🤝 Customer relationship management service with lead tracking, sales automation, customer engagement, and AI-driven insights.
+
+Inventory-Service	📊 Real-time inventory and warehouse management with stock tracking, forecasting, barcode support, and automated replenishment.
+
+Fleet-Management-Service	🚚 Smart fleet management platform for vehicle tracking, maintenance scheduling, fuel monitoring, and driver performance analytics.
+
+Identity-Service	🔐 Secure authentication and authorization service featuring OAuth2, JWT, RBAC, MFA, audit logging, and enterprise identity management.
+
+Notification-Service	📢 Unified notification service supporting email, SMS, WhatsApp, push notifications, and real-time messaging.
+
+Analytics-Service	📈 AI-powered analytics platform delivering dashboards, KPIs, forecasting, predictive insights, and business intelligence.
+
+AI-Agent-Service	🤖 Autonomous AI agents for workflow automation, decision support, document analysis, and enterprise productivity.
+
+Payment-Service	💳 Secure payment gateway supporting M-Pesa, bank transfers, card payments, invoicing, reconciliation, and financial integrations.
+
+HATech-Website	🌐 Official website for HATech Intelligence showcasing AI, cybersecurity, cloud solutions, software engineering, and digital transformation services.
 
 ---
 
@@ -59,10 +85,36 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Languages & Tools
 
-Python • TypeScript • React • Next.js • NestJS • FastAPI • Docker • Kubernetes • PostgreSQL • Redis • TensorFlow • Scikit-Learn
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,vite,nodejs,nestjs,fastapi,adonis,laravel,docker,postgres,mysql,redis,git,github,githubactions,postman,tailwind&perline=10" />
+  </a>
+</p> 
 
 ---
 
-⭐ Thanks for visiting my profile!
+
+## 🌌 Mission Status 👾  
+  
+👽 Alien signal detected: ACTIVE
+🚀 Current location: Nairobi, Kenya
+🛠️ Systems being built: ERP + AI + Cybersecurity
+🚀 Building enterprise-grade software
+🤖 Developing AI-powered business solutions
+🔐 Researching cybersecurity and intelligent threat detection
+☁️ Deploying scalable cloud-native systems
+🌌 Learning something new every day
+☕ Coffee reserves: 73%
+🐛 Bugs remaining: [██████░░░░] 60%
+🌍 Objective: Build intelligent systems that make business operations feel like science fiction
+
+📫 Contact the Mothership
+🌐 Email: wizlabtechnology@gmail.com
+
+
+> 👽 "The best way to predict the future is to build it."
+
+
+⭐ Built by Alien Tech 👽 🤖 🚀 🌌 🛸 💻 ⚡ 🔥
